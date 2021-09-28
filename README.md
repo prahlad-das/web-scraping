@@ -1,9 +1,9 @@
 # Web-Scraping
-
-
+In this project, we are using beautiful soup library to get currency values. For this purpose, https://www.xe.com/currencyconverter is used to crawl information about currencies. 
+***
 
 Value of different currencies equal to **1 USD** <br/>
-
+*This number might change depending on the time of running this code.*
 
 0.85483159 Euros <br/>
 0.72962868 British Pounds <br/>
